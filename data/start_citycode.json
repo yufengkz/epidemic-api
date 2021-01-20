@@ -1,0 +1,1265 @@
+{
+    "广东": {
+        "count": 21,
+        "citylist": {
+            "广州": {
+                "code": "gz"
+            },
+            "云浮": {
+                "code": "yf"
+            },
+            "揭阳": {
+                "code": "jy"
+            },
+            "潮州": {
+                "code": "chaozhou"
+            },
+            "中山": {
+                "code": "zs"
+            },
+            "东莞": {
+                "code": "dg"
+            },
+            "清远": {
+                "code": "qy"
+            },
+            "阳江": {
+                "code": "yj"
+            },
+            "河源": {
+                "code": "heyuan"
+            },
+            "汕尾": {
+                "code": "sw"
+            },
+            "梅州": {
+                "code": "mz"
+            },
+            "惠州": {
+                "code": "huizhou"
+            },
+            "肇庆": {
+                "code": "zq"
+            },
+            "茂名": {
+                "code": "mm"
+            },
+            "湛江": {
+                "code": "zhanjiang"
+            },
+            "江门": {
+                "code": "jm"
+            },
+            "佛山": {
+                "code": "fs"
+            },
+            "汕头": {
+                "code": "st"
+            },
+            "珠海": {
+                "code": "zh"
+            },
+            "深圳": {
+                "code": "sz"
+            },
+            "韶关": {
+                "code": "sg"
+            }
+        }
+    },
+    "四川": {
+        "count": 21,
+        "citylist": {
+            "成都": {
+                "code": "cd"
+            },
+            "凉山": {
+                "code": "liangshan"
+            },
+            "甘孜": {
+                "code": "ganzi"
+            },
+            "阿坝": {
+                "code": "ab"
+            },
+            "资阳": {
+                "code": "zy"
+            },
+            "巴中": {
+                "code": "bazhong"
+            },
+            "雅安": {
+                "code": "ya"
+            },
+            "达州": {
+                "code": "dazhou"
+            },
+            "广安": {
+                "code": "ga"
+            },
+            "宜宾": {
+                "code": "yb"
+            },
+            "眉山": {
+                "code": "ms"
+            },
+            "南充": {
+                "code": "nanchong"
+            },
+            "乐山": {
+                "code": "leshan"
+            },
+            "内江": {
+                "code": "neijiang"
+            },
+            "遂宁": {
+                "code": "suining"
+            },
+            "广元": {
+                "code": "guangyuan"
+            },
+            "绵阳": {
+                "code": "my"
+            },
+            "德阳": {
+                "code": "deyang"
+            },
+            "泸州": {
+                "code": "luzhou"
+            },
+            "攀枝花": {
+                "code": "pzh"
+            },
+            "自贡": {
+                "code": "zg"
+            }
+        }
+    },
+    "新疆": {
+        "count": 18,
+        "citylist": {
+            "乌鲁木齐": {
+                "code": "wlmq"
+            },
+            "博尔塔拉": {
+                "code": "betl"
+            },
+            "昌吉": {
+                "code": "cj"
+            },
+            "哈密": {
+                "code": "hm"
+            },
+            "吐鲁番": {
+                "code": "tlf"
+            },
+            "克拉玛依": {
+                "code": "klmy"
+            },
+            "五家渠": {
+                "code": "wjq"
+            },
+            "图木舒克": {
+                "code": "tmsk"
+            },
+            "阿拉尔": {
+                "code": "ale"
+            },
+            "石河子": {
+                "code": "shz"
+            },
+            "阿勒泰": {
+                "code": "aletai"
+            },
+            "塔城": {
+                "code": "tacheng"
+            },
+            "伊犁": {
+                "code": "yili"
+            },
+            "和田": {
+                "code": "ht"
+            },
+            "喀什": {
+                "code": "kashi"
+            },
+            "克孜勒苏": {
+                "code": "kzls"
+            },
+            "阿克苏": {
+                "code": "aks"
+            },
+            "巴音郭楞": {
+                "code": "bygl"
+            }
+        }
+    },
+    "河南": {
+        "count": 18,
+        "citylist": {
+            "郑州": {
+                "code": "zz"
+            },
+            "鹤壁": {
+                "code": "hb"
+            },
+            "安阳": {
+                "code": "ay"
+            },
+            "平顶山": {
+                "code": "pds"
+            },
+            "洛阳": {
+                "code": "ly"
+            },
+            "开封": {
+                "code": "kf"
+            },
+            "济源": {
+                "code": "jiyuan"
+            },
+            "驻马店": {
+                "code": "zmd"
+            },
+            "周口": {
+                "code": "zk"
+            },
+            "信阳": {
+                "code": "xy"
+            },
+            "商丘": {
+                "code": "sq"
+            },
+            "南阳": {
+                "code": "ny"
+            },
+            "三门峡": {
+                "code": "smx"
+            },
+            "漯河": {
+                "code": "lh"
+            },
+            "许昌": {
+                "code": "xc"
+            },
+            "濮阳": {
+                "code": "py"
+            },
+            "焦作": {
+                "code": "jiaozuo"
+            },
+            "新乡": {
+                "code": "xx"
+            }
+        }
+    },
+    "海南": {
+        "count": 18,
+        "citylist": {
+            "海口": {
+                "code": "haikou"
+            },
+            "琼中": {
+                "code": "haikou"
+            },
+            "保亭": {
+                "code": "haikou"
+            },
+            "陵水": {
+                "code": "haikou"
+            },
+            "乐东": {
+                "code": "haikou"
+            },
+            "昌江": {
+                "code": "haikou"
+            },
+            "白沙": {
+                "code": "haikou"
+            },
+            "临高": {
+                "code": "haikou"
+            },
+            "澄迈": {
+                "code": "haikou"
+            },
+            "屯昌": {
+                "code": "haikou"
+            },
+            "定安": {
+                "code": "haikou"
+            },
+            "东方": {
+                "code": "haikou"
+            },
+            "万宁": {
+                "code": "haikou"
+            },
+            "文昌": {
+                "code": "haikou"
+            },
+            "儋州": {
+                "code": "haikou"
+            },
+            "琼海": {
+                "code": "haikou"
+            },
+            "五指山": {
+                "code": "wzs"
+            },
+            "三亚": {
+                "code": "sanya"
+            }
+        }
+    },
+    "湖北": {
+        "count": 17,
+        "citylist": {
+            "武汉": {
+                "code": "wh"
+            },
+            "神农架": {
+                "code": "snj"
+            },
+            "天门": {
+                "code": "tm"
+            },
+            "潜江": {
+                "code": "qianjiang"
+            },
+            "仙桃": {
+                "code": "xiantao"
+            },
+            "恩施": {
+                "code": "es"
+            },
+            "随州": {
+                "code": "suizhou"
+            },
+            "咸宁": {
+                "code": "xianning"
+            },
+            "黄冈": {
+                "code": "hg"
+            },
+            "荆州": {
+                "code": "jingzhou"
+            },
+            "孝感": {
+                "code": "xg"
+            },
+            "荆门": {
+                "code": "jingmen"
+            },
+            "鄂州": {
+                "code": "ez"
+            },
+            "襄阳": {
+                "code": "xf"
+            },
+            "宜昌": {
+                "code": "yichang"
+            },
+            "十堰": {
+                "code": "shiyan"
+            },
+            "黄石": {
+                "code": "hshi"
+            }
+        }
+    },
+    "安徽": {
+        "count": 17,
+        "citylist": {
+            "合肥": {
+                "code": "hf"
+            },
+            "宣城": {
+                "code": "xuancheng"
+            },
+            "池州": {
+                "code": "chizhou"
+            },
+            "亳州": {
+                "code": "bozhou"
+            },
+            "六安": {
+                "code": "la"
+            },
+            "巢湖": {
+                "code": "ch"
+            },
+            "宿州": {
+                "code": "su"
+            },
+            "阜阳": {
+                "code": "fy"
+            },
+            "滁州": {
+                "code": "chuzhou"
+            },
+            "黄山": {
+                "code": "huangshan"
+            },
+            "安庆": {
+                "code": "aq"
+            },
+            "铜陵": {
+                "code": "tongling"
+            },
+            "淮北": {
+                "code": "huaibei"
+            },
+            "马鞍山": {
+                "code": "mas"
+            },
+            "淮南": {
+                "code": "hn"
+            },
+            "蚌埠": {
+                "code": "bb"
+            },
+            "芜湖": {
+                "code": "wuhu"
+            }
+        }
+    },
+    "山东": {
+        "count": 17,
+        "citylist": {
+            "济南": {
+                "code": "jn"
+            },
+            "菏泽": {
+                "code": "heze"
+            },
+            "滨州": {
+                "code": "bz"
+            },
+            "聊城": {
+                "code": "lc"
+            },
+            "德州": {
+                "code": "dz"
+            },
+            "临沂": {
+                "code": "linyi"
+            },
+            "莱芜": {
+                "code": "lw"
+            },
+            "日照": {
+                "code": "rz"
+            },
+            "威海": {
+                "code": "weihai"
+            },
+            "泰安": {
+                "code": "ta"
+            },
+            "济宁": {
+                "code": "jining"
+            },
+            "潍坊": {
+                "code": "wf"
+            },
+            "烟台": {
+                "code": "yt"
+            },
+            "东营": {
+                "code": "dy"
+            },
+            "枣庄": {
+                "code": "zaozhuang"
+            },
+            "淄博": {
+                "code": "zb"
+            },
+            "青岛": {
+                "code": "qd"
+            }
+        }
+    },
+    "云南": {
+        "count": 16,
+        "citylist": {
+            "昆明": {
+                "code": "km"
+            },
+            "曲靖": {
+                "code": "qj"
+            },
+            "迪庆": {
+                "code": "diqing"
+            },
+            "怒江": {
+                "code": "nujiang"
+            },
+            "德宏": {
+                "code": "dh"
+            },
+            "大理": {
+                "code": "dali"
+            },
+            "西双版纳": {
+                "code": "bn"
+            },
+            "文山": {
+                "code": "ws"
+            },
+            "红河": {
+                "code": "honghe"
+            },
+            "楚雄": {
+                "code": "cx"
+            },
+            "临沧": {
+                "code": "lincang"
+            },
+            "普洱": {
+                "code": "pe"
+            },
+            "丽江": {
+                "code": "lj"
+            },
+            "昭通": {
+                "code": "zt"
+            },
+            "保山": {
+                "code": "bs"
+            },
+            "玉溪": {
+                "code": "yx"
+            }
+        }
+    },
+    "江苏": {
+        "count": 15,
+        "citylist": {
+            "南京": {
+                "code": "nj"
+            },
+            "宿迁": {
+                "code": "suqian"
+            },
+            "泰州": {
+                "code": "taizhou"
+            },
+            "镇江": {
+                "code": "zj"
+            },
+            "扬州": {
+                "code": "yz"
+            },
+            "盐城": {
+                "code": "yancheng"
+            },
+            "淮安": {
+                "code": "ha"
+            },
+            "连云港": {
+                "code": "lyg"
+            },
+            "南通": {
+                "code": "nt"
+            },
+            "苏州": {
+                "code": "suzhou"
+            },
+            "常州": {
+                "code": "cz"
+            },
+            "昆山": {
+                "code": "ks"
+            },
+            "徐州": {
+                "code": "xz"
+            },
+            "江阴": {
+                "code": "jiangyin"
+            },
+            "无锡": {
+                "code": "wx"
+            }
+        }
+    },
+    "湖南": {
+        "count": 14,
+        "citylist": {
+            "长沙": {
+                "code": "cs"
+            },
+            "湘潭": {
+                "code": "xiangtan"
+            },
+            "株洲": {
+                "code": "zhuzhou"
+            },
+            "湘西": {
+                "code": "xiangxi"
+            },
+            "娄底": {
+                "code": "ld"
+            },
+            "怀化": {
+                "code": "hh"
+            },
+            "永州": {
+                "code": "yongzhou"
+            },
+            "郴州": {
+                "code": "chenzhou"
+            },
+            "益阳": {
+                "code": "yiyang"
+            },
+            "张家界": {
+                "code": "zjj"
+            },
+            "常德": {
+                "code": "changde"
+            },
+            "岳阳": {
+                "code": "yy"
+            },
+            "邵阳": {
+                "code": "shaoyang"
+            },
+            "衡阳": {
+                "code": "hy"
+            }
+        }
+    },
+    "辽宁": {
+        "count": 14,
+        "citylist": {
+            "沈阳": {
+                "code": "sy"
+            },
+            "葫芦岛": {
+                "code": "hld"
+            },
+            "朝阳": {
+                "code": "cy"
+            },
+            "铁岭": {
+                "code": "tl"
+            },
+            "盘锦": {
+                "code": "pj"
+            },
+            "辽阳": {
+                "code": "liaoyang"
+            },
+            "阜新": {
+                "code": "fx"
+            },
+            "营口": {
+                "code": "yk"
+            },
+            "锦州": {
+                "code": "jinzhou"
+            },
+            "丹东": {
+                "code": "dd"
+            },
+            "本溪": {
+                "code": "bx"
+            },
+            "抚顺": {
+                "code": "fushun"
+            },
+            "鞍山": {
+                "code": "as"
+            },
+            "大连": {
+                "code": "dl"
+            }
+        }
+    },
+    "甘肃": {
+        "count": 14,
+        "citylist": {
+            "兰州": {
+                "code": "lz"
+            },
+            "甘南": {
+                "code": "gn"
+            },
+            "临夏": {
+                "code": "lx"
+            },
+            "陇南": {
+                "code": "ln"
+            },
+            "定西": {
+                "code": "dx"
+            },
+            "庆阳": {
+                "code": "qingyang"
+            },
+            "酒泉": {
+                "code": "jq"
+            },
+            "平凉": {
+                "code": "pl"
+            },
+            "张掖": {
+                "code": "zhangye"
+            },
+            "武威": {
+                "code": "wuwei"
+            },
+            "天水": {
+                "code": "tianshui"
+            },
+            "白银": {
+                "code": "by"
+            },
+            "金昌": {
+                "code": "jinchang"
+            },
+            "嘉峪关": {
+                "code": "jyg"
+            }
+        }
+    },
+    "广西": {
+        "count": 14,
+        "citylist": {
+            "南宁": {
+                "code": "nn"
+            },
+            "崇左": {
+                "code": "chongzuo"
+            },
+            "来宾": {
+                "code": "lb"
+            },
+            "河池": {
+                "code": "hc"
+            },
+            "贺州": {
+                "code": "hezhou"
+            },
+            "百色": {
+                "code": "baise"
+            },
+            "玉林": {
+                "code": "yulin"
+            },
+            "贵港": {
+                "code": "gg"
+            },
+            "钦州": {
+                "code": "qinzhou"
+            },
+            "防城港": {
+                "code": "fcg"
+            },
+            "北海": {
+                "code": "bh"
+            },
+            "梧州": {
+                "code": "wuzhou"
+            },
+            "桂林": {
+                "code": "gl"
+            },
+            "柳州": {
+                "code": "liuzhou"
+            }
+        }
+    },
+    "黑龙江": {
+        "count": 13,
+        "citylist": {
+            "哈尔滨": {
+                "code": "heb"
+            },
+            "大兴安岭": {
+                "code": "dxal"
+            },
+            "绥化": {
+                "code": "suihua"
+            },
+            "黑河": {
+                "code": "heihe"
+            },
+            "牡丹江": {
+                "code": "mdj"
+            },
+            "七台河": {
+                "code": "qth"
+            },
+            "佳木斯": {
+                "code": "jms"
+            },
+            "伊春": {
+                "code": "yich"
+            },
+            "大庆": {
+                "code": "dq"
+            },
+            "双鸭山": {
+                "code": "sys"
+            },
+            "鹤岗": {
+                "code": "hegang"
+            },
+            "鸡西": {
+                "code": "jixi"
+            },
+            "齐齐哈尔": {
+                "code": "qqhr"
+            }
+        }
+    },
+    "内蒙古": {
+        "count": 12,
+        "citylist": {
+            "呼和浩特": {
+                "code": "hu"
+            },
+            "赤峰": {
+                "code": "cf"
+            },
+            "乌海": {
+                "code": "wuhai"
+            },
+            "包头": {
+                "code": "bt"
+            },
+            "阿拉善": {
+                "code": "alsm"
+            },
+            "锡林郭勒": {
+                "code": "xl"
+            },
+            "兴安": {
+                "code": "xam"
+            },
+            "乌兰察布": {
+                "code": "wlcb"
+            },
+            "巴彦淖尔": {
+                "code": "bycem"
+            },
+            "呼伦贝尔": {
+                "code": "hlbe"
+            },
+            "鄂尔多斯": {
+                "code": "erds"
+            },
+            "通辽": {
+                "code": "tongliao"
+            }
+        }
+    },
+    "江西": {
+        "count": 11,
+        "citylist": {
+            "南昌": {
+                "code": "nc"
+            },
+            "景德镇": {
+                "code": "jdz"
+            },
+            "上饶": {
+                "code": "sr"
+            },
+            "抚州": {
+                "code": "fuzhou"
+            },
+            "宜春": {
+                "code": "yichun"
+            },
+            "吉安": {
+                "code": "ja"
+            },
+            "赣州": {
+                "code": "ganzhou"
+            },
+            "鹰潭": {
+                "code": "yingtan"
+            },
+            "新余": {
+                "code": "xinyu"
+            },
+            "九江": {
+                "code": "jj"
+            },
+            "萍乡": {
+                "code": "px"
+            }
+        }
+    },
+    "浙江": {
+        "count": 11,
+        "citylist": {
+            "杭州": {
+                "code": "hz"
+            },
+            "舟山": {
+                "code": "zhoushan"
+            },
+            "绍兴": {
+                "code": "sx"
+            },
+            "湖州": {
+                "code": "huzhou"
+            },
+            "嘉兴": {
+                "code": "jx"
+            },
+            "温州": {
+                "code": "wz"
+            },
+            "宁波": {
+                "code": "nb"
+            },
+            "丽水": {
+                "code": "lishui"
+            },
+            "台州": {
+                "code": "tz"
+            },
+            "金华": {
+                "code": "jh"
+            },
+            "衢州": {
+                "code": "quzhou"
+            }
+        }
+    },
+    "山西": {
+        "count": 11,
+        "citylist": {
+            "太原": {
+                "code": "ty"
+            },
+            "吕梁": {
+                "code": "ll"
+            },
+            "临汾": {
+                "code": "linfen"
+            },
+            "忻州": {
+                "code": "xinzhou"
+            },
+            "运城": {
+                "code": "yuncheng"
+            },
+            "晋中": {
+                "code": "jz"
+            },
+            "朔州": {
+                "code": "shuozhou"
+            },
+            "晋城": {
+                "code": "jc"
+            },
+            "长治": {
+                "code": "changzhi"
+            },
+            "阳泉": {
+                "code": "yangquan"
+            },
+            "大同": {
+                "code": "dt"
+            }
+        }
+    },
+    "河北": {
+        "count": 11,
+        "citylist": {
+            "石家庄": {
+                "code": "sjz"
+            },
+            "沧州": {
+                "code": "cangzhou"
+            },
+            "廊坊": {
+                "code": "lf"
+            },
+            "衡水": {
+                "code": "hs"
+            },
+            "承德": {
+                "code": "chengde"
+            },
+            "张家口": {
+                "code": "zjk"
+            },
+            "保定": {
+                "code": "bd"
+            },
+            "邢台": {
+                "code": "xt"
+            },
+            "邯郸": {
+                "code": "hd"
+            },
+            "秦皇岛": {
+                "code": "qhd"
+            },
+            "唐山": {
+                "code": "ts"
+            }
+        }
+    },
+    "陕西": {
+        "count": 10,
+        "citylist": {
+            "西安": {
+                "code": "xa"
+            },
+            "商洛": {
+                "code": "sl"
+            },
+            "安康": {
+                "code": "ak"
+            },
+            "榆林": {
+                "code": "yl"
+            },
+            "汉中": {
+                "code": "hanzhong"
+            },
+            "延安": {
+                "code": "yn"
+            },
+            "渭南": {
+                "code": "wn"
+            },
+            "咸阳": {
+                "code": "xianyang"
+            },
+            "宝鸡": {
+                "code": "baoji"
+            },
+            "铜川": {
+                "code": "tc"
+            }
+        }
+    },
+    "贵州": {
+        "count": 9,
+        "citylist": {
+            "贵阳": {
+                "code": "gy"
+            },
+            "黔南": {
+                "code": "qn"
+            },
+            "黔东南": {
+                "code": "qdn"
+            },
+            "毕节": {
+                "code": "bijie"
+            },
+            "黔西南": {
+                "code": "qxn"
+            },
+            "铜仁": {
+                "code": "tr"
+            },
+            "安顺": {
+                "code": "anshun"
+            },
+            "遵义": {
+                "code": "zunyi"
+            },
+            "六盘水": {
+                "code": "lps"
+            }
+        }
+    },
+    "福建": {
+        "count": 9,
+        "citylist": {
+            "福州": {
+                "code": "fz"
+            },
+            "宁德": {
+                "code": "nd"
+            },
+            "龙岩": {
+                "code": "longyan"
+            },
+            "南平": {
+                "code": "np"
+            },
+            "漳州": {
+                "code": "zhangzhou"
+            },
+            "泉州": {
+                "code": "qz"
+            },
+            "三明": {
+                "code": "sm"
+            },
+            "莆田": {
+                "code": "pt"
+            },
+            "厦门": {
+                "code": "xm"
+            }
+        }
+    },
+    "吉林": {
+        "count": 9,
+        "citylist": {
+            "长春": {
+                "code": "cc"
+            },
+            "延边": {
+                "code": "yanbian"
+            },
+            "白城": {
+                "code": "bc"
+            },
+            "松原": {
+                "code": "songyuan"
+            },
+            "白山": {
+                "code": "baishan"
+            },
+            "通化": {
+                "code": "th"
+            },
+            "辽源": {
+                "code": "liaoyuan"
+            },
+            "四平": {
+                "code": "sp"
+            },
+            "吉林": {
+                "code": "jl"
+            }
+        }
+    },
+    "青海": {
+        "count": 8,
+        "citylist": {
+            "西宁": {
+                "code": "xn"
+            },
+            "海西": {
+                "code": "hx"
+            },
+            "玉树": {
+                "code": "ys"
+            },
+            "果洛": {
+                "code": "guoluo"
+            },
+            "海南": {
+                "code": "hainan"
+            },
+            "黄南": {
+                "code": "huangnan"
+            },
+            "海北": {
+                "code": "haibei"
+            },
+            "海东": {
+                "code": "haidong"
+            }
+        }
+    },
+    "西藏": {
+        "count": 7,
+        "citylist": {
+            "拉萨": {
+                "code": "ls"
+            },
+            "林芝": {
+                "code": "linzhi"
+            },
+            "阿里": {
+                "code": "al"
+            },
+            "那曲": {
+                "code": "nq"
+            },
+            "日喀则": {
+                "code": "rkz"
+            },
+            "山南": {
+                "code": "sn"
+            },
+            "昌都": {
+                "code": "changdu"
+            }
+        }
+    },
+    "宁夏": {
+        "count": 5,
+        "citylist": {
+            "银川": {
+                "code": "yc"
+            },
+            "中卫": {
+                "code": "zw"
+            },
+            "固原": {
+                "code": "guyuan"
+            },
+            "吴忠": {
+                "code": "wuzhong"
+            },
+            "石嘴山": {
+                "code": "szs"
+            }
+        }
+    },
+    "北京": {
+        "count": 1,
+        "citylist": {
+            "北京": {
+                "code": "bj"
+            }
+        }
+    },
+    "重庆": {
+        "count": 1,
+        "citylist": {
+            "重庆": {
+                "code": "cq"
+            }
+        }
+    },
+    "香港": {
+        "count": 1,
+        "citylist": {
+            "香港": {
+                "code": "hk"
+            }
+        }
+    },
+    "上海": {
+        "count": 1,
+        "citylist": {
+            "上海": {
+                "code": "sh"
+            }
+        }
+    },
+    "澳门": {
+        "count": 1,
+        "citylist": {
+            "澳门": {
+                "code": "am"
+            }
+        }
+    },
+    "天津": {
+        "count": 1,
+        "citylist": {
+            "天津": {
+                "code": "tj"
+            }
+        }
+    }
+}
